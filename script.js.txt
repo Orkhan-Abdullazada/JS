@@ -1,0 +1,96 @@
+
+
+// task 2
+
+ // var x=parseInt(prompt("Reqem daxil edin"))
+// if(x%3==0 && x%5==0) {
+// console.log("Daxil edilen reqem hem 3-e, hemde 5-e bolunur.")
+
+ // }else{
+  // console.log("Daxil edilen reqem hem 3-e, hemde 5-e bolunmur")
+// }
+
+ // task 3
+
+// var a=parseInt(prompt("Reqem daxil edin"))
+// if(x%2==0) {
+//   console.log("Daxil edilen reqem 2-ye bolunur.")
+
+// }
+// else if(x%2==1){
+
+//   console.log("Daxil edilen reqem 2-ye bolunmur.")
+// }
+
+// task 4
+
+// var a=parseInt(prompt("Reqem daxil edin"))
+// var b=parseInt(prompt("Reqem daxil edin"))
+// var c=a*b
+// if(c>0){
+//    console.log("Daxil edilen eded musbetdir")
+// }
+// if (c<0){
+ //   console.log("Daxil edilen reqem menfidir")
+// }
+
+// task 5
+// var x=parseInt(prompt("Reqem daxil edin"))
+// if(x>=1 && x<=100) {
+//    console.log("Daxil edilen reqem 1 ve 100 arasindadir")
+// }
+// if(x>=1 && x>=100){
+//    console.log("Daxil edilen reqem 1 ve 100 arasinda deyil")
+// }
+
+ // task 6
+ //var a=parseInt(prompt("Reqem daxil edin"))
+ //var b=parseInt(prompt("Reqem daxil edin"))
+ //var c>a+b
+// if(a<0){
+ //   console.log("Daxil edilen reqem menfidir")
+// }
+ //if (b==0){
+   // console.log("Daxil edilen reqem sifira beraberdir")
+ //}
+// if(c>0){
+  //  console.log("Daxil edilen reqem musbetdir")    
+// }
+
+//task 8
+// var a=parseInt(prompt("Yasinizi daxil edin"))
+// if(a>18){
+ //   console.log("Yeniyetme")
+//}
+//if(18>a<64){
+  //  console.log("Yetkin")
+//}
+//if(a>65){
+  //  console.log("Yasli")
+//}
+
+
+//task 7
+//var a=parseInt(prompt("Reqem daxil edin"))
+//if(a>=90){
+ //   console.log("90 ve uzeri")
+//}
+//if(80<b<89){
+//    console.log("80 ve 89 arasi")
+//}
+//if(70<c<79){
+ //   console.log("70 ve 79 arasi")
+//}
+//if(60<d<69){
+//    console.log("60 ve 69 arasi")
+//}
+//if(f<=59){
+ //   console.log("59 ve asagi")
+//}
+
+
+//task 9
+//var a=parseInt(prompt("Sabahiniz xeyir"))
+// if(0<a<24){
+ //   console.log("Sabahiniz xeyr, Gunortaniz xeyr, Axsaminiz xeyr")
+//}
